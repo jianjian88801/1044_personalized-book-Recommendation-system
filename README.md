@@ -57,21 +57,58 @@
 首页
 
 ![输入图片说明](images/238a13785c1e783f5ae37b437cc62a5.png)
-3.  xxxx
 
-#### 参与贡献
+学生端首页
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+![输入图片说明](images/3355f4c3500c60d81d85a1d0c62c1a9.png)
+
+学生管理
+
+![输入图片说明](images/ba80d6a966b11418232198a0289a27b.png)
+
+图书分类管理
+
+![输入图片说明](images/322e67f4d936b8b71180062fe1352cf.png)
+
+图书信息管理
+
+![输入图片说明](images/c0fae217125beaa4f2d8eddbb846f4a.png)
+
+学生端图书信息
+
+![输入图片说明](images/0e37e3b2fa3dfe3daaed366bed7d503.png)
+
+图书预约管理
+
+![输入图片说明](images/8579776ce738d42b74aacb1658ce87b.png)
+
+退换图书管理
+
+![输入图片说明](images/f2cedac76bb34fe0d275ca42217170a.png)
+
+留言板管理
+
+![输入图片说明](images/2ba53cfb5b30ce1ad949f6ce333497e.png)
+
+系统管理
+
+![输入图片说明](images/2f763420530b3299d673c2e758d47b0.png)
+
+好书推荐
+
+![输入图片说明](images/ca161432cc3bcb60478c9a3c5179d02.png)
 
 
-#### 特技
+#### 总结
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+本图书个性化推荐系统为管理员和学生提供了高效、个性化的服务。管理员能全面管理学生和图书信息，确保系统正常运行。学生则享受个性化图书推荐，轻松浏览、预约和退换图书，并可通过留言板互动。系统提升了借阅效率和阅读体验，为双方提供了便捷的服务。
+
+
+#### 使用说明
+
+后台地址：http://localhost:8080/springbootxs5o6/admin/dist/index.html
+
+管理员  abo 密码 abo
+
+
+前台地址：http://localhost:8080/springbootxs5o6/front/index.html
